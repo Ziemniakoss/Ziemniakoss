@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I make scripts in spare time.
+I make tools in spare time.
 
 If one of my repo doesn't have license, it means that you are free to use it in any way you want, but:
 - derivative works can't mention me
