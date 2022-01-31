@@ -9,7 +9,7 @@ If one of my repo doesn't have license, it means that you are free to use it in 
 
 ## Tools
 
-### SF and friends
+### 	☁ SF and friends
 
 - [tool to generate better SObjects typings](https://github.com/Ziemniakoss/apex-sobjects-typings-generator)
 - [sfdx plugin for metadata manipulation](https://github.com/Ziemniakoss/sfdx-metadata-utils)
