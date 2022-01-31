@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Ziemniakoss/Ziemniakoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make scripts in spare time.
 
-Here are some ideas to get you started:
+If one of my repo doesn't have license, it means that you are free to use it in any way you want, but:
+- derivative works can't mention me
+- you are using this code at your own risk 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+
+### SF and friends
+
+- [tool to generate better SObjects typings](https://github.com/Ziemniakoss/apex-sobjects-typings-generator)
+- [sfdx plugin for metadata manipulation](https://github.com/Ziemniakoss/sfdx-metadata-utils)
+- [WIP: tool for better lwc typings generation](https://github.com/Ziemniakoss/lwc-typings-generator)
