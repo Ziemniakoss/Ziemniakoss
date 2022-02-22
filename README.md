@@ -10,9 +10,10 @@ If one of my repo doesn't have license, it means that you are free to use it in 
 ## Current projects
 
 Currently Im working on:
+- [tool](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment) for cpq scripts management
 - treesitter grammar for apex
 - minimal apex pmd validator pipe for bitbucket (and maybe later for gh)
-- [tool](https://github.com/Ziemniakoss/apex-sobjects-typings-generator) for better SObjects autocompletions
+- [tool](https://github.com/Ziemniakoss/apex-sobjects-typings-generator) for better SObjects autocompletions(windows support)
 
 
 ## Tools
