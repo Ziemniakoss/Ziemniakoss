@@ -21,5 +21,6 @@ Currently Im working on:
 ### SF and friends
 
 - [tool to generate better SObjects typings](https://github.com/Ziemniakoss/apex-sobjects-typings-generator)
+- [cpq custom scripts deployment helper](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
 - [sfdx plugin for metadata manipulation](https://github.com/Ziemniakoss/sfdx-metadata-utils)
 - [WIP: tool for better lwc typings generation](https://github.com/Ziemniakoss/lwc-typings-generator)
