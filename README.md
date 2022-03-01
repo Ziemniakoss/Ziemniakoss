@@ -13,14 +13,12 @@ Currently Im working on:
 - [tool](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment) for cpq scripts management
 - treesitter grammar for apex
 - minimal apex pmd validator pipe for bitbucket (and maybe later for gh)
-- [tool](https://github.com/Ziemniakoss/apex-sobjects-typings-generator) for better SObjects autocompletions(windows support)
-
 
 ## Tools
 
 ### SF and friends
 
-- [tool to generate better SObjects typings](https://github.com/Ziemniakoss/apex-sobjects-typings-generator)
-- [cpq custom scripts deployment helper](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
+- [sfdx plugin for better SObjects typings generation](https://github.com/Ziemniakoss/apex-typings-generator)
+- [sfdx plugin helping with cpq custom scripts deployment](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
 - [sfdx plugin for metadata manipulation](https://github.com/Ziemniakoss/sfdx-metadata-utils)
 - [WIP: tool for better lwc typings generation](https://github.com/Ziemniakoss/lwc-typings-generator)
