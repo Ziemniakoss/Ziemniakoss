@@ -18,6 +18,7 @@ Currently Im working on:
 ### SF and friends
 
 - [sfdx plugin for better SObjects typings generation](https://github.com/Ziemniakoss/apex-typings-generator)
+- [sfdx plugin for splitting and merging metadata files](https://github.com/Ziemniakoss/sfdx-metadata-splitter)
 - [sfdx plugin helping with cpq custom scripts deployment](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
 - [sfdx plugin for metadata manipulation](https://github.com/Ziemniakoss/sfdx-metadata-utils)
 - [sfdx plugin for notifications](https://github.com/Ziemniakoss/sfdx-notifications)
