@@ -10,7 +10,7 @@ If one of my repo doesn't have license, it means that you are free to use it in 
 ## Current projects
 
 Currently Im working on:
-- [tool](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment) for cpq scripts management
+- [plugin for splitting xml files](https://github.com/Ziemniakoss/sfdx-metadata-splitter)
 - treesitter grammar for apex
 
 ## Tools
