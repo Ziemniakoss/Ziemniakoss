@@ -7,19 +7,15 @@ If one of my repo doesn't have license, it means that you are free to use it in 
 - you are using this code at your own risk 
 - I dont give any warranty that this code works XD, it's basically my free work
 
-## Current projects
 
-Currently Im working on:
-- [plugin for splitting xml files](https://github.com/Ziemniakoss/sfdx-metadata-splitter)
-- treesitter grammar for apex
+# Tools
 
-## Tools
+## SF and friends
 
-### SF and friends
-
-- [sfdx plugin for better SObjects typings generation](https://github.com/Ziemniakoss/apex-typings-generator)
-- [sfdx plugin for splitting and merging metadata files](https://github.com/Ziemniakoss/sfdx-metadata-splitter)
-- [sfdx plugin helping with cpq custom scripts deployment](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
-- [sfdx plugin for metadata manipulation](https://github.com/Ziemniakoss/sfdx-metadata-utils)
-- [sfdx plugin for notifications](https://github.com/Ziemniakoss/sfdx-notifications)
+- [Plugin for better SObjects typings generation](https://github.com/Ziemniakoss/apex-typings-generator)
+- [Plugin for splitting and merging metadata files](https://github.com/Ziemniakoss/sfdx-metadata-splitter)
+- [Plugin helping with cpq custom scripts deployment](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
+- [Plugin for metadata manipulation](https://github.com/Ziemniakoss/sfdx-metadata-utils)
+- [Plugin for notifications](https://github.com/Ziemniakoss/sfdx-notifications)
 - [WIP: tool for better lwc typings generation](https://github.com/Ziemniakoss/lwc-typings-generator)
+- [Plugin for deployment summary report generation](https://github.com/Ziemniakoss/sfdx-ci-summary-creator)
