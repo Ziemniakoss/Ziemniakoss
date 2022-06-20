@@ -1,15 +1,32 @@
 # Hi there 👋
 
-I make tools in spare time.
+Im currently studing and working, so I might be slow to reply.
 
-# Tools
 
-## SF and friends
+My current project will be epic.
+Sneak peak:
+
+![Sneak peek of my current project](./sneak_peek.png)
+
+# Projects
+
+## SFDX Plugins
+
+### For better autocompletion
 
 - [Plugin for better SObjects typings generation](https://github.com/Ziemniakoss/apex-typings-generator)
+- [Plugin for better lwc typings generation](https://github.com/Ziemniakoss/lwc-typings-generator)
+
+### Metadata management
+
 - [Plugin for splitting and merging metadata files](https://github.com/Ziemniakoss/sfdx-metadata-splitter)
-- [Plugin helping with cpq custom scripts deployment](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
 - [Plugin for metadata manipulation](https://github.com/Ziemniakoss/sfdx-metadata-utils)
+
+
+- [Plugin helping with cpq custom scripts deployment](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
+
+### Other
+
 - [Plugin for notifications](https://github.com/Ziemniakoss/sfdx-notifications)
-- [WIP: tool for better lwc typings generation](https://github.com/Ziemniakoss/lwc-typings-generator)
+
 - [Plugin for deployment summary report generation](https://github.com/Ziemniakoss/sfdx-ci-summary-creator)
