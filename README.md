@@ -22,11 +22,8 @@ Sneak peak:
 - [Plugin for splitting and merging metadata files](https://github.com/Ziemniakoss/sfdx-metadata-splitter)
 - [Plugin for metadata manipulation](https://github.com/Ziemniakoss/sfdx-metadata-utils)
 
-
-- [Plugin helping with cpq custom scripts deployment](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
-
 ### Other
 
+- [Plugin helping with cpq custom scripts deployment](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
 - [Plugin for notifications](https://github.com/Ziemniakoss/sfdx-notifications)
-
 - [Plugin for deployment summary report generation](https://github.com/Ziemniakoss/sfdx-ci-summary-creator)
