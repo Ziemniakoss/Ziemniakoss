@@ -3,8 +3,7 @@
 Im currently studing and working, so I might be slow to reply.
 
 
-My current project will be epic.
-Sneak peak:
+Sneak peak at my current project:
 
 ![Sneak peek of my current project](./sneak_peek.png)
 
