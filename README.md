@@ -3,7 +3,7 @@
 Im currently studing and working, so I might be slow to reply.
 
 
-Sneak peak at my current project:
+Sneak peak into my current project:
 
 ![Sneak peek of my current project](./sneak_peek.png)
 
