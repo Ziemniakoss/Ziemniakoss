@@ -9,6 +9,8 @@ Sneak peak into my current project:
 
 ![Sneak peek of my current project](./image.png)
 
+![outline](./outline.png)
+
 # Projects
 
 ## SFDX Plugins
