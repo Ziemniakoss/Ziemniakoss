@@ -30,3 +30,7 @@ Sneak peak into my current project:
 - [Plugin helping with cpq custom scripts deployment](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
 - [Plugin for notifications](https://github.com/Ziemniakoss/sfdx-notifications)
 - [Plugin for deployment summary report generation](https://github.com/Ziemniakoss/sfdx-ci-summary-creator)
+
+## Bitbucket pipes
+
+- [Universal Code Insights creator](https://bitbucket.org/Ziemniakoss/code-insights-report-creator)
