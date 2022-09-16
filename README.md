@@ -13,6 +13,8 @@ Sneak peak into my current project:
 
 # Projects
 
+- [Minimal Force CLI](https://github.com/Ziemniakoss/mfc)
+
 ## SFDX Plugins
 
 ### For better autocompletion
