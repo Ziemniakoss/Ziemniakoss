@@ -1,7 +1,5 @@
 # Hi there 👋
 
-Im currently studing and working, so I might be slow to reply.
-
 # My Projects
 
 ## Bitbucket pipes
@@ -33,5 +31,3 @@ Im currently studing and working, so I might be slow to reply.
 ## In progress
 
 - OSS Apex Language Server
-- PMD bitbucket pipe (with PMD stripped of support for languages other than Apex  
-
