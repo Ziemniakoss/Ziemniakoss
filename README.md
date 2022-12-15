@@ -9,7 +9,7 @@
 ## Related to Salesforce
 
 - [Minimal Force CLI](https://github.com/Ziemniakoss/mfc)
-- [apex parser in prettier in docker](https://github.com/Ziemniakoss/prettier-apex-server-in-docker).
+- [apex parser for prettier in docker](https://github.com/Ziemniakoss/prettier-apex-server-in-docker).
 
 
 ### SFDX Plugins
