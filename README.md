@@ -32,4 +32,4 @@
 
 ## In progress
 
-- OSS Apex Language Server
+- OSS Type Aware Apex Static Analisis Tool 
