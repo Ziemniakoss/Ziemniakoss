@@ -8,7 +8,7 @@
 # My Projects
 
 These projects are maintained in spare time.
-Due to the fact that I just discovered WII, I have almost none :).
+Due to the fact that I just discovered WII (console), I have almost none :).
 Please be patient with response times.
 
 ## Bitbucket pipes
