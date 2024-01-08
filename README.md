@@ -31,8 +31,7 @@ Mainly CI related stuff but also some plugins that enhance IDE inteligence (like
 
 #### Other
 
-- [Plugin for splitting and merging metadata files](https://github.com/Ziemniakoss/sfdx-metadata-splitter)
-- [Plugin helping with cpq custom scripts deployment](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
-- [Plugin for notifications](https://github.com/Ziemniakoss/sfdx-notifications)
-- [Plugin for deployment summary report generation](https://github.com/Ziemniakoss/sfdx-ci-summary-creator)
+- [split and merge metadata files (like profiles)](https://github.com/Ziemniakoss/sfdx-metadata-splitter)
+- [utility for CPQ custom scripts deployment](https://github.com/Ziemniakoss/sfdx-cpq-scripts-deployment)
+- [deployment summary report generator](https://github.com/Ziemniakoss/sfdx-ci-summary-creator)
 - [for data purging (currenly only flows)](https://www.npmjs.com/package/@ziemniakoss/sf-purge-plugin)
