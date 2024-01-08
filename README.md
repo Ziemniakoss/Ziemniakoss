@@ -26,8 +26,8 @@ Mainly CI related stuff but also some plugins that enhance IDE inteligence (like
 
 #### For better autocompletion
 
-- [Plugin for better SObjects typings generation](https://github.com/Ziemniakoss/apex-typings-generator)
-- [Plugin for better lwc typings generation](https://github.com/Ziemniakoss/lwc-typings-generator)
+- [enhance SObject autocompletion for Apex and generate types for classes in namespaces](https://github.com/Ziemniakoss/apex-typings-generator)
+- [generate better lwc typings, for example for SObject picklists and apex classes](https://github.com/Ziemniakoss/lwc-typings-generator)
 
 #### Other
 
