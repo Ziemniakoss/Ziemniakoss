@@ -14,6 +14,7 @@ Please be patient with response times.
 ## Bitbucket pipes
 
 - [Universal Code Insights creator](https://bitbucket.org/Ziemniakoss/code-insights-report-creator)
+- [Reporter for CSpell that creates Code Insights](https://github.com/Ziemniakoss/cspell-bitbucket-code-insights-reporter)
 
 ## Related to Salesforce
 
